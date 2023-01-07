@@ -1,0 +1,139 @@
+@media (min-width: 768px) and (max-width: 991px) { 
+    #banner .banner_text h1 {
+        font-size: 45px;
+  
+    }
+    .h-left {
+        width: 100%;
+        margin-top: -20px;
+        padding: 0 0 0 0;
+    }
+
+    #banner .banner_text h1 {
+        padding: 20px 0;
+    }
+    #banner .banner_text p {
+        padding-bottom: 20px;
+    }
+
+    .navbar .nav-item {
+        background: #fff;
+        
+        
+    }
+    .navbar .nav-item .nav-link {
+        color: #000000;
+        padding-left: 50px;
+        text-align: left;
+        
+    }
+    .ms-auto {
+        width: 80%;
+        margin-right: 50px;
+    }
+    .navbar .nav-item .nav-link:hover {
+        color: rgb(79, 79, 255);
+    }
+
+
+    #banner .my_slider {
+        display: none;
+    }
+
+   
+    #banner {
+        z-index: -1;
+    }
+
+
+    #about{
+        margin-top: -000px;
+    }
+    #about .tittle{
+        text-align: center;
+        margin-top: -80px;
+    }
+    #about .about_img {
+        display: none;
+    }
+
+    #features .features_box_one {
+        display: none;
+    }
+   
+    
+
+    #features .features_box_two{
+        display: none;
+    }
+
+    #features .features_box_three {
+        margin-left: 173px;
+  
+    }
+
+    #testimonial .main_item .text p span {
+        padding: 20px 100px;
+    }
+
+    #pricing .pricing_table {
+        width: 50%;
+        margin-left: 185px;
+        
+    }
+
+    .card {
+        margin-top: 60px;
+        margin-left: 170px;
+    }
+    #team .title {
+        margin: 40px 0 -60px 1px;
+    }
+    #faqs .title {
+        margin: 40px 0 -60px 1px;
+    }
+    #faqs .text-center img {
+        display: none;
+    }
+
+    .faq-panel {
+        width: 90%;
+    }
+    .faq-content {
+        margin-top: 90px;
+    }
+
+
+    #contact .info h3 {
+        font-size: 20px;
+    }
+    #contact .info h3 {
+        display:none ;
+    }
+    .contact_img {
+        display: none;
+    }
+
+    #contact button {
+        margin: 20px 0 0 450px;
+    }
+
+    #contact .title {
+        margin: -100px 0 -90px 0;
+    }
+
+    #contact .contact_anim .anim_img2 {
+        bottom: -2%;
+        left: 12%;
+    }
+    #contact .contact_anim .anim_img1 {
+        bottom: 22%;
+        left: 24%;
+
+    }
+
+
+    
+    
+    
+}
